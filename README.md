@@ -2,9 +2,9 @@
 This project contains a demo of generalized equalization model for image enhancement. 
 
 ## Requirements and installation
-[CVX](http://cvxr.com/cvx/) toolbox is required to run all functions. 
+The [CVX](http://cvxr.com/cvx/) toolbox is required to run all functions. 
 
-- Download CVX toolbox in the folder named "cvx" and add the folder into the path of your matlab. 
+- Download the [CVX](http://cvxr.com/cvx/) toolbox in the folder named "cvx" and add the folder into the path of your matlab. 
 - Run the "Demo_GEM.m" file to get enhanced images.
 
 ## References and citation
