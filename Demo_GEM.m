@@ -8,7 +8,7 @@ clear all
 
 for N=1:10
     
-    Filename1=sprintf('%d.bmp',N);
+    Filename1=sprintf('imgs/%d.bmp',N);
     In=imread(Filename1);
     % d: always be 0, if d~=0, the user should have installed cvx
     % toolbox.
